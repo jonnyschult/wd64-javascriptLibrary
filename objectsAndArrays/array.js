@@ -130,3 +130,14 @@ console.log(movies);
 
 movies.splice(2, 1, 'Young Frankenstein');
 console.log(movies);
+
+count = 0;
+
+function whatDoesItDo(color) {    
+    if (color !== 'blue' || color !== 'green') {
+       color = 'red';
+    }
+    return color;
+ }; 
+ 
+ console.log(whatDoesItDo(2));
