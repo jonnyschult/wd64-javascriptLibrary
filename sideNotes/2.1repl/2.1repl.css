@@ -1,0 +1,15 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#imageOne {
+    border: 2px solid lawngreen;
+    border-radius: 70px 30px 70px 30px;
+}
+
+#imageTwo {
+    border: 2px solid lawngreen;
+    border-radius: 30px 70px 30px 70px;
+}
