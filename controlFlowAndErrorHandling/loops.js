@@ -125,7 +125,7 @@ for(pos in indexArr){
 }
 
 /*
-? Quic Recap;
+? Quick Recap;
     for loop: loops through a block of code until the counter reaches a specified number.
     for in loops: loops through properties of an object. returns index/key
     for of loops: loops over iterable objects such as arrays and *strings can be accessed much in the same way as arrays. returns value

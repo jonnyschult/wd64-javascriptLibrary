@@ -1,5 +1,3 @@
-// console.log('Test')
-
 const baseURL = 'https://api.spacexdata.com/v2/rockets'
 
 const searchForm = document.querySelector('form');
@@ -27,7 +25,7 @@ function fetchSpace(e){
         })
 }
 
-// DISPLAY FUNCTION\
+// DISPLAY FUNCTION
 function displayRockets(data) {
     console.log('displayRockets: ', data)
 
