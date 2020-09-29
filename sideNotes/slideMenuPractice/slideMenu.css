@@ -1,0 +1,17 @@
+ul{
+    position: relative;
+}
+.displayItem {
+    position: absolute;
+    z-index: -1;
+}
+
+.displayImg {
+    height: 400px;
+    width: 800px;
+    position: relative;
+}
+
+.navBtn {
+    position: relative;
+}

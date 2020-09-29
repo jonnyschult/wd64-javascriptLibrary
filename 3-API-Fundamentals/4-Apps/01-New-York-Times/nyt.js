@@ -138,7 +138,7 @@ function displayResults(json) {
 function nextPage(e){
     pageNumber++;
     fetchResults(e);
-    console.log('Page Number: ', pageNumber);
+    // console.log('Page Number: ', pageNumber);
 }
 
 function previousPage(e){
@@ -148,5 +148,5 @@ function previousPage(e){
         return;
     }
     fetchResults(e);
-    console.log('Page: ', pageNumber)
+    // console.log('Page: ', pageNumber)
 }
