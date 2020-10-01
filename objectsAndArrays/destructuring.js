@@ -5,7 +5,7 @@
 
     - allows us to unpack values from array or properties from objects. 
     - similiar syntax as array literals BUT is on the LEFT side of the assignment operator.
-        - This defines what vales to unpack. 
+        - This defines what values to unpack. 
     - great for pulling info out of an array/object and assinging that data to it's own variable. 
 */
 
