@@ -11,13 +11,13 @@ body {
 
 /* footer */
 footer {
-  background-color: #53565A; 
+  background-color: #53565a;
   color: white;
   margin-top: 10px;
 }
 
-footer  p {
-  margin-top: 0.8em!important;
+footer p {
+  margin-top: 0.8em !important;
   margin-left: 1.5em;
 }
 
@@ -37,7 +37,7 @@ footer  p {
 
 .sidebar {
   display: flex;
-  background-color: #53565A; 
+  background-color: #53565a;
   margin-top: 10px;
 }
 
@@ -46,29 +46,29 @@ ul {
 }
 
 /* Sidebar */
-.sidebar-list-styling{
+.sidebar-list-styling {
   padding-left: 50px;
   padding-top: 15px;
   width: 20%;
-  background-color: #53565A;
+  background-color: #53565a;
   color: white;
 }
 
-.sidebar-list a{
+.sidebar-list a {
   color: white;
   padding: 0;
 }
 
-.sidebar-route{ 
+.sidebar-route {
   flex: 1;
-  padding: '00px'; 
+  padding: "00px";
 }
 
 /* header */
 .header {
-  margin-top: 0.5em!important;
+  margin-top: 0.5em !important;
   text-align: center;
-  background-color: #53565A; 
+  background-color: #53565a;
   color: white;
 }
 
@@ -76,10 +76,6 @@ ul {
   color: white;
 }
 
-.header  p {
-  margin-top: 0.8em!important;
-}
-
-.challengeWrapper{
-  background-color: cornflowerblue;
+.header p {
+  margin-top: 0.8em !important;
 }

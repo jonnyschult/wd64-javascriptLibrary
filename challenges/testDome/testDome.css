@@ -1,7 +1,8 @@
-span{
-    visibility: hidden;
+.tooltip {
+  visibility: hidden;
 }
 
-img:hover span{
-    visibility: visible;
+.tooltipParent:hover .tooltip {
+  visibility: visible;
+  color: red;
 }
